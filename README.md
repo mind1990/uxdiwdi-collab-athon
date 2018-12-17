@@ -1,7 +1,7 @@
-General Assembly uxdi and wdi48 collaborating project
-
-<h1>Personal Website</h1>
+<h1>Panthera</h1>
 A two day collabathon where I was tasked to create a responsive website with three UX designers. The concept project was for a pet store that showcased a newsletter feature and focused on company branding.
+
+
 
 <h2>Technologies used</h2>
 <ul>
