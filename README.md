@@ -1,6 +1,7 @@
 <h1>Panthera</h1>
 A two day collabathon where I was tasked to create a responsive website with three UX designers. The concept project was for a pet store that showcased a newsletter feature and focused on company branding.
 
+![panthera](https://user-images.githubusercontent.com/27410207/50103257-18adff80-01dc-11e9-93f8-16c557e9a053.jpg)
 
 
 <h2>Technologies used</h2>
